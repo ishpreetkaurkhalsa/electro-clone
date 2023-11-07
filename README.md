@@ -1,1 +1,1 @@
-# electro-clone
+# electro-ecommerce-theme
